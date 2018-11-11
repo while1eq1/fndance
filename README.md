@@ -1,5 +1,5 @@
 # fndance
-You know the dance
+You know...the basic, bone-stock, default, noskin dance
 
 ![Alt Text](static/dance.gif) 
 
